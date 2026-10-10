@@ -1,0 +1,16 @@
+# Ignore Maven build output
+/target/
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.iml
+
+# Ignore H2 local database files
+/data/
+*.mv.db
+*.trace.db
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
